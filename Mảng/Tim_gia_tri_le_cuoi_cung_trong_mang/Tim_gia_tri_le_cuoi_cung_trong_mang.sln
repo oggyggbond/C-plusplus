@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tim_gia_tri_le_cuoi_cung_trong_mang", "Tim_gia_tri_le_cuoi_cung_trong_mang\Tim_gia_tri_le_cuoi_cung_trong_mang.vcxproj", "{0F9415EA-1E30-48D2-9C85-611F36813A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9415EA-1E30-48D2-9C85-611F36813A41}.Debug|x64.ActiveCfg = Debug|x64
+		{0F9415EA-1E30-48D2-9C85-611F36813A41}.Debug|x64.Build.0 = Debug|x64
+		{0F9415EA-1E30-48D2-9C85-611F36813A41}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F9415EA-1E30-48D2-9C85-611F36813A41}.Debug|x86.Build.0 = Debug|Win32
+		{0F9415EA-1E30-48D2-9C85-611F36813A41}.Release|x64.ActiveCfg = Release|x64
+		{0F9415EA-1E30-48D2-9C85-611F36813A41}.Release|x64.Build.0 = Release|x64
+		{0F9415EA-1E30-48D2-9C85-611F36813A41}.Release|x86.ActiveCfg = Release|Win32
+		{0F9415EA-1E30-48D2-9C85-611F36813A41}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F30F51C3-7E86-404E-ABBC-B19E7092D0D5}
+	EndGlobalSection
+EndGlobal

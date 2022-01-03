@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Câu lệnh lặp\Doc_so_vo_cung_lon_bang_chu\tettttt\Source.cpp(17,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Câu lệnh lặp\Doc_so_vo_cung_lon_bang_chu\tettttt\Source.cpp(22,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  tettttt.vcxproj -> D:\Câu lệnh lặp\Doc_so_vo_cung_lon_bang_chu\tettttt\Debug\tettttt.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tinh_tich_2_den_2n", "Tinh_tich_2_den_2n\Tinh_tich_2_den_2n.vcxproj", "{2E94A5C2-0A0A-41A1-ACE4-192C6544DFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E94A5C2-0A0A-41A1-ACE4-192C6544DFFB}.Debug|x64.ActiveCfg = Debug|x64
+		{2E94A5C2-0A0A-41A1-ACE4-192C6544DFFB}.Debug|x64.Build.0 = Debug|x64
+		{2E94A5C2-0A0A-41A1-ACE4-192C6544DFFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E94A5C2-0A0A-41A1-ACE4-192C6544DFFB}.Debug|x86.Build.0 = Debug|Win32
+		{2E94A5C2-0A0A-41A1-ACE4-192C6544DFFB}.Release|x64.ActiveCfg = Release|x64
+		{2E94A5C2-0A0A-41A1-ACE4-192C6544DFFB}.Release|x64.Build.0 = Release|x64
+		{2E94A5C2-0A0A-41A1-ACE4-192C6544DFFB}.Release|x86.ActiveCfg = Release|Win32
+		{2E94A5C2-0A0A-41A1-ACE4-192C6544DFFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8629AF42-CAD6-4360-A1C4-9FEB3CFBAB9C}
+	EndGlobalSection
+EndGlobal

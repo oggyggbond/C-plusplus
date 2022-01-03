@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Chuỗi ký tự\Chuan_hoa_chuoi\Chuan_hoa_chuoi\Source.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+D:\Chuỗi ký tự\Chuan_hoa_chuoi\Chuan_hoa_chuoi\Source.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+  Chuan_hoa_chuoi.vcxproj -> D:\Chuỗi ký tự\Chuan_hoa_chuoi\Debug\Chuan_hoa_chuoi.exe

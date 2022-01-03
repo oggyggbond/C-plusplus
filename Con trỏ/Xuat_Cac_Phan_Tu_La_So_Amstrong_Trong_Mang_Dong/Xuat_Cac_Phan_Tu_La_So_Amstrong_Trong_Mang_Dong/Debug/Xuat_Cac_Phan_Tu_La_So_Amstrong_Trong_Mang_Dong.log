@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Con trỏ\Xuat_Cac_Phan_Tu_La_So_Amstrong_Trong_Mang_Dong\Xuat_Cac_Phan_Tu_La_So_Amstrong_Trong_Mang_Dong\Source.cpp(23,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Con trỏ\Xuat_Cac_Phan_Tu_La_So_Amstrong_Trong_Mang_Dong\Xuat_Cac_Phan_Tu_La_So_Amstrong_Trong_Mang_Dong\Source.cpp(28,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Xuat_Cac_Phan_Tu_La_So_Amstrong_Trong_Mang_Dong.vcxproj -> D:\Con trỏ\Xuat_Cac_Phan_Tu_La_So_Amstrong_Trong_Mang_Dong\Debug\Xuat_Cac_Phan_Tu_La_So_Amstrong_Trong_Mang_Dong.exe

@@ -1,0 +1,26 @@
+=========================== ƯU ĐIỂM - NHƯỢC ĐIỂM ===========================
+*** MẢNG 1 CHIỀU ***
+
+-ưu điểm:
+	+ Truy xuất đến từng phần tử của mảng thông qua toán tử chỉ số
+	+ Ít tốn bộ nhớ
+
+- nhược điểm:
+	+ Việc thêm, xóa phần tử bản chất không phải thêm hoặc xóa thật sự mà đó chỉ
+là việc thay đổi vị trí các phần tử cho nhau
+	+ Phải biết trước số lượng phần tử mảng
+	+ Các phần tử phải nằm liên tiếp nhau trong bộ nhớ máy tính ==> phân mảnh bộ nhớ
+
+*** DANH SÁCH LIÊN KẾT ***
+
+-ưu điểm:
+	+ Việc thêm và xóa đơn giản chỉ cần thay đổi mối liên kết giữa các node với nhau
+	+ Không cần biết trước số lượng phần tử - 
+	+ Các phần tử không cần nằm liên tiếp nhau trong bộ nhớ máy tính ==> khắc phục được tình trạng 
+phân mảnh bộ nhớ
+
+- nhược điểm:
+	+ Không thể truy xuất đến từng phần tử của danh sách thông qua toán tử chỉ số,
+mà nó phải duyệt tuần tự thông qua các phần tử
+	+ Tốn bộ nhớ - chứa thêm con trỏ -> liên kết giữa các node với nhau
+	

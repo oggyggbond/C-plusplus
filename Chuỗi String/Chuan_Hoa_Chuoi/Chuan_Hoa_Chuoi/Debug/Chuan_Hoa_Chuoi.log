@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Chuỗi String\Chuan_Hoa_Chuoi\Chuan_Hoa_Chuoi\Source.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+D:\Chuỗi String\Chuan_Hoa_Chuoi\Chuan_Hoa_Chuoi\Source.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+  Chuan_Hoa_Chuoi.vcxproj -> D:\Chuỗi String\Chuan_Hoa_Chuoi\Debug\Chuan_Hoa_Chuoi.exe

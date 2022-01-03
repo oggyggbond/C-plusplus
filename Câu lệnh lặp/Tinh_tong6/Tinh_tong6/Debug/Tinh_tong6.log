@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Câu lệnh lặp\Tinh_tong6\Tinh_tong6\Source.cpp(12,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Tinh_tong6.vcxproj -> D:\Câu lệnh lặp\Tinh_tong6\Debug\Tinh_tong6.exe

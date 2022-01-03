@@ -1,0 +1,68 @@
+Class(Lớp): Là 1 cái mẫu chung - hình mẫu chung - khung để xây dựng ra các đối tượng cụ thể
+Object(Đối tượng): Là 1 thực thể tồn tại trong khi chương trình đang chạy
+Attribute/Property(Thuộc tính) - DANH TỪ(đặc tính): Tính chất của 1 thực thể
+Function/Method(Phương thức) - ĐỘNG TỪ(hành vi): Hành động của 1 thực thể  
+
+
+1. TÍNH CHẤT TRỪU TƯỢNG HÓA DỮ LIỆU
+
+Là quá trình chúng ta đi đơn giản hóa một đối tượng
+<=> xác định các thuộc tính và phương thức cần thiết của đối tượng đó để đáp ứng cái yêu cầu cần thiết của chương trình
+tại thời điểm hiện tại
+<=> sàn lọc, cắt tỉa ra các tính chất và hành vi cốt lõi của 1 đối tượng để đi giải quyết vấn đề đang gặp phải tại thời điểm hiện tại
+còn những thứ khác chưa liên quan có hay không không quan trọng.
+
+
+2. TÍNH CHẤT ĐÓNG GÓI DỮ LIỆU
+
+Đây là tính chất đặc trưng của phương pháp lập trình hướng đối tượng
+<=> không cho phép những lập trình viên truy xuất hay cập nhật các dữ liệu thành phần của lớp nội tại
+==> dữ liệu sẽ được che chắn và bảo vệ
+
++ PUBLIC: những thuộc tính hay phương thức khai báo với từ khóa này sẽ có phạm vị
+hoạt động trên toàn bộ chương trình
+
++ PRIVATE: những thuộc tính hay phương thức khai báo với từ khóa này sẽ có phạm vị
+hoạt động bên trong lớp nội tại
+
++ PROTECTED: những thuộc tính hay phương thức khai báo với từ khóa này sẽ có phạm vị
+hoạt động bên trong lớp nội tại và ở những lớp con kế thừa từ nó
+
+3. TÍNH CHẤT KẾ THỪA
+
+Đây Là tính chất đặc trưng của phương pháp lập trình hướng đối tượng, nghĩa là nó cho phép chúng ta đi định nghĩa ra 1 cái lớp mới 
+với các thuộc tính và phương thức dùng lại của những lớp trước đó.
+
+4. TÍNH CHẤT ĐA HÌNH
+
+Là tính chất quan trọng của lập trình hướng đối tượng, có nghĩa là một hành động được thể hiện bằng nhiều cách khác nhau
+
+
+================== Phương thức ảo ================== 
+* CÚ PHÁP KHAI KHAI BÁO PHƯƠNG THỨC ẢO *
+<virtual> <Kiểu dữ liệu> <Tên phương thức>(các tham số truyền vào nếu có);
+
+- Những phương thức ở lớp cha được khai báo với từ khóa " virtual " - 
+thì các lớp con kế thừa từ nó cũng sẽ cài đặt lại các phương thức "trùng tên" của lớp cha, để cho phép các phương thức của lớp con có thể nạp chồng(định nghĩa lại) các phương thức của lớp cha
+- Nếu như các phương thức của lớp cha không có từ khóa "virtual" thì khi chúng ta new ra 1 đối tượng con bất kì - thì nó sẽ mặc định chạy về phương thức trùng tên của lớp cha.
+TÁC DỤNG CỦA TỪ KHÓA VIRTUAL
+- Nếu như các phương thức của lớp cha có khai báo từ khóa virtual thì khi new ra 1 đối tượng con nào đó bất kì - thì khi đó nó sẽ chạy vào phương thức trùng tên của lớp con đó - 
+nó cho chúng ta gọi lại phương thức trùng tên của lớp con 
+
+================== Phương thức thuần ảo ================== 
+* CÚ PHÁP KHAI KHAI BÁO PHƯƠNG THỨC THUẦN ẢO *
+<virtual> <Kiểu dữ liệu> <Tên phương thức>(các tham số truyền vào nếu có) = 0;
+
+- Những phương thức sẽ được khai báo ở lớp cha - còn việc định nghĩa sẽ do các lớp con kế thừa từ nó đảm nhận - bắt buộc, nếu không sẽ lỗi
+
+LƯU Ý
+- Nếu ở lớp cha có khai báo các phương thức thuần ảo - thì qui tắc các lớp con nào mà kế thừa lại từ lớp cha đó -
+ thì các lớp con kế thừa từ lớp cha đó bắt buộc phải đi định nghĩa lại phương thức thuần ảo của lớp cha đó - nếu lớp con mà không định nghĩa ===> sẽ bị lỗi
+
+KHI NÀO DÙNG PHƯƠNG THỨC ẢO - KHI NÀO DÙNG PHƯƠNG THỨC THUẦN ẢO ????
+- Dùng phương thức ảo: khi ở lớp cha nó có thông tin để tính toán
+- Dùng phương thức thuần ảo: khi ở lớp cha nó không có thông tin để tính toán
+
+TÙY CƠ ỨNG BIẾN
+"BIẾN CÁI PHƯƠNG THỨC THUẦN ẢO THÀNH PHƯƠNG THỨC ẢO"
+ 

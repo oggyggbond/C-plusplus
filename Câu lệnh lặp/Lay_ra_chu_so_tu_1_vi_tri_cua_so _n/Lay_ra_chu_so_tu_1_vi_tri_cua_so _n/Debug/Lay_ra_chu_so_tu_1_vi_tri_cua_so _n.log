@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source1.cpp
+  Generating Code...
+D:\Câu lệnh lặp\Lay_ra_chu_so_tu_1_vi_tri_cua_so _n\Lay_ra_chu_so_tu_1_vi_tri_cua_so _n\Source1.cpp(14,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Source1.obj : error LNK2005: _main already defined in Source.obj
+D:\Câu lệnh lặp\Lay_ra_chu_so_tu_1_vi_tri_cua_so _n\Lay_ra_chu_so_tu_1_vi_tri_cua_so _n\Debug\Lay_ra_chu_so_tu_1_vi_tri_cua_so _n.exe : fatal error LNK1169: one or more multiply defined symbols found

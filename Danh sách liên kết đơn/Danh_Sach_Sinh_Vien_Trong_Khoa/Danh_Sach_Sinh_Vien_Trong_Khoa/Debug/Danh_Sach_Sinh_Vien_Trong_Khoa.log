@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Danh sách liên kết đơn\Danh_Sach_Sinh_Vien_Trong_Khoa\Danh_Sach_Sinh_Vien_Trong_Khoa\Source.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+D:\Danh sách liên kết đơn\Danh_Sach_Sinh_Vien_Trong_Khoa\Danh_Sach_Sinh_Vien_Trong_Khoa\Source.cpp(116): warning C4715: 'KT_MK': not all control paths return a value
+D:\Danh sách liên kết đơn\Danh_Sach_Sinh_Vien_Trong_Khoa\Danh_Sach_Sinh_Vien_Trong_Khoa\Source.cpp(175): warning C4715: 'KT_MSV': not all control paths return a value
+  Danh_Sach_Sinh_Vien_Trong_Khoa.vcxproj -> D:\Danh sách liên kết đơn\Danh_Sach_Sinh_Vien_Trong_Khoa\Debug\Danh_Sach_Sinh_Vien_Trong_Khoa.exe

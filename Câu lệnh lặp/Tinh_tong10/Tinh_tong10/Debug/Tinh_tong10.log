@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Câu lệnh lặp\Tinh_tong10\Tinh_tong10\Source.cpp(11,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Tinh_tong10.vcxproj -> D:\Câu lệnh lặp\Tinh_tong10\Debug\Tinh_tong10.exe

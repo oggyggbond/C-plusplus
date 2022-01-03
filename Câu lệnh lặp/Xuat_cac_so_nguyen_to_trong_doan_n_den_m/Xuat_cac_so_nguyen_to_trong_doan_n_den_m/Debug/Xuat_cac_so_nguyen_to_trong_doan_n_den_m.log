@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Câu lệnh lặp\Xuat_cac_so_nguyen_to_trong_doan_n_den_m\Xuat_cac_so_nguyen_to_trong_doan_n_den_m\Source.cpp(24,16): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Xuat_cac_so_nguyen_to_trong_doan_n_den_m.vcxproj -> D:\Câu lệnh lặp\Xuat_cac_so_nguyen_to_trong_doan_n_den_m\Debug\Xuat_cac_so_nguyen_to_trong_doan_n_den_m.exe

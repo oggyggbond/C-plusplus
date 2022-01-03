@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\OOP\Quan_Ly_Nhan_Vien_Cong_Ty\Quan_Ly_Nhan_Vien_Cong_Ty\Source.cpp(373,21): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\Quan_Ly_Nhan_Vien_Cong_Ty\Quan_Ly_Nhan_Vien_Cong_Ty\Source.cpp(385,21): warning C4018: '<': signed/unsigned mismatch
+D:\OOP\Quan_Ly_Nhan_Vien_Cong_Ty\Quan_Ly_Nhan_Vien_Cong_Ty\Source.cpp(397,21): warning C4018: '<': signed/unsigned mismatch
+  Quan_Ly_Nhan_Vien_Cong_Ty.vcxproj -> D:\OOP\Quan_Ly_Nhan_Vien_Cong_Ty\Debug\Quan_Ly_Nhan_Vien_Cong_Ty.exe

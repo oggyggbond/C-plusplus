@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Mảng\Xuat_so_Amstrong\Xuat_so_Amstrong\Source.cpp(22,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Mảng\Xuat_so_Amstrong\Xuat_so_Amstrong\Source.cpp(27,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Xuat_so_Amstrong.vcxproj -> D:\Mảng\Xuat_so_Amstrong\Debug\Xuat_so_Amstrong.exe

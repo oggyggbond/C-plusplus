@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Đọc - Ghi File\Bai2\Bai2\Source.cpp(7,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Đọc - Ghi File\Bai2\Bai2\Source.cpp(12,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Bai2.vcxproj -> D:\Đọc - Ghi File\Bai2\Debug\Bai2.exe

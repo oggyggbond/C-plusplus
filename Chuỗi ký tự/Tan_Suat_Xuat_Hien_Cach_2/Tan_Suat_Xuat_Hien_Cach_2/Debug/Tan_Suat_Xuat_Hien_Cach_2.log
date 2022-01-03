@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Chuỗi ký tự\Tan_Suat_Xuat_Hien_Cach_2\Tan_Suat_Xuat_Hien_Cach_2\Source.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+D:\Chuỗi ký tự\Tan_Suat_Xuat_Hien_Cach_2\Tan_Suat_Xuat_Hien_Cach_2\Source.cpp(22,22): warning C4018: '<': signed/unsigned mismatch
+  Tan_Suat_Xuat_Hien_Cach_2.vcxproj -> D:\Chuỗi ký tự\Tan_Suat_Xuat_Hien_Cach_2\Debug\Tan_Suat_Xuat_Hien_Cach_2.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\OOP\Quan_Ly_Phieu_Mua_Hang\Quan_Ly_Phieu_Mua_Hang\Source.cpp(76,36): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Quan_Ly_Phieu_Mua_Hang.vcxproj -> D:\OOP\Quan_Ly_Phieu_Mua_Hang\Debug\Quan_Ly_Phieu_Mua_Hang.exe
